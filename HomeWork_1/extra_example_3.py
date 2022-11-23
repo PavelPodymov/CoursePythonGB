@@ -11,18 +11,18 @@
 """
 
 
-def find_quoter(x_cord, y_cord):
-    """find quoter from coordinates when x != 0 and y != 0"""
+def find_quarter(x_cord, y_cord):
+    """find quarter from coordinates when x != 0 and y != 0"""
     if x_cord > 0:
         if y_cord > 0:
-            print(f"x = {x_cord}; y = {y_cord} -> 1st - quoter")
+            print(f"x = {x_cord}; y = {y_cord} -> 1st - quarter")
         else:
-            print(f"x = {x_cord}; y = {y_cord} -> 4th - quoter")
+            print(f"x = {x_cord}; y = {y_cord} -> 4th - quarter")
     else:
         if y_cord > 0:
-            print(f"x = {x_cord}; y = {y_cord} -> 2nd - quoter")
+            print(f"x = {x_cord}; y = {y_cord} -> 2nd - quarter")
         else:
-            print(f"x = {x_cord}; y = {y_cord} -> 3rd - quoter")
+            print(f"x = {x_cord}; y = {y_cord} -> 3rd - quarter")
 
 
 def check_position_coordinate(x_cord, y_cord):
@@ -36,7 +36,7 @@ def check_position_coordinate(x_cord, y_cord):
         if y_cord == 0:
             print(f"Your coordinate ({x_cord}; 0) - dot on the axis X")
         else:
-            find_quoter(x_cord, y_cord)
+            find_quarter(x_cord, y_cord)
 
 
 try:
