@@ -13,7 +13,8 @@ if hour > 24:
 seconds = int(user_time % 60)
 
 if days > 0:
-    minute = (user_time - seconds - (hour * 60 * 60) - (days * 60 * 60 * 24)) // 60
+    minute = (user_time - seconds - (hour * 60 * 60) - (
+                days * 60 * 60 * 24)) // 60
     print(f"days:{days} [{hour:02}:{minute:02}:{seconds:02}]")
 else:
     minute = (user_time - seconds - hour * 60 * 60) // 60
