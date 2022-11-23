@@ -25,7 +25,6 @@ def max_number_2(num):
     count = 0
     numb = int(num)
     max_numb = int(num) % 10
-    # print(max_numb)
     while count < len(num)-1:
         numb = int(numb / 10)
         ans = numb % 10
