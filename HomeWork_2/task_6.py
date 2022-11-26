@@ -22,21 +22,41 @@
 “ед”: [“шт.”]
 }
 """
-goods = [
+goods_ex = [
     (1, {'name': 'computer', 'price': 20000, 'quantity': 5, 'unit': 'pieces'}),
     (2, {'name': 'printer', 'price': 6000, 'quantity': 2, 'unit': 'pieces'}),
     (3, {'name': 'scanner', 'price': 2000, 'quantity': 7, 'unit': 'pieces'})
 ]
 
 START = True
-my_list = []
-count = 0
+goods = []
+COUNT = 0
 while START:
     y_n = input("If you don't want to continue write - n: ").lower()
     if y_n == 'n':
         START = False
     else:
         name_s = input("name of goods: ")
-        price_s = input("price of price: ")
-        quantity_s = input("quantity of quantity: ")
-        my_dict = set
+        price_s = int(input("price: "))
+        quantity_s = int(input("quantity: "))
+        COUNT += 1
+        goods.append((COUNT, {'name': name_s,
+                              'price': price_s,
+                              'quantity': quantity_s,
+                              'unit': 'pieces'}))
+
+new_dict = {}
+for i in goods[0][1]:
+    new_dict[i] = []
+
+for key in new_dict:
+    dict_list = []
+    for i in goods:
+        value = i[1].get(key)
+        dict_list.append(value)
+        if key != 'unit':
+            new_dict[key] = dict_list
+        else:
+            new_dict[key] = ['pieces']
+
+print(new_dict)
