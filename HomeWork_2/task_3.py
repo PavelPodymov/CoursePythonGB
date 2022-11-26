@@ -12,3 +12,14 @@ month = int(input("You month is: "))
 for key, value in seasons.items():
     if month in value:
         print(key)
+
+seasons2 = ['winter', 'spring', 'summer', 'autumn']
+
+if month <= 2 or month == 12:
+    print(seasons2[0])
+elif month <= 5:
+    print(seasons2[1])
+elif month <= 8:
+    print(seasons2[2])
+else:
+    print(seasons2[3])
