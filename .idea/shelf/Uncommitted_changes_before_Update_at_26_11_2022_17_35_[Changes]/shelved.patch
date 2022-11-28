@@ -1,0 +1,482 @@
+Index: .idea/CoursePythonGB.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <excludeFolder url=\"file://$MODULE_DIR$/venv\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n  <component name=\"PyDocumentationSettings\">\r\n    <option name=\"format\" value=\"PLAIN\" />\r\n    <option name=\"myDocStringFormat\" value=\"Plain\" />\r\n  </component>\r\n</module>
+===================================================================
+diff --git a/.idea/CoursePythonGB.iml b/.idea/CoursePythonGB.iml
+--- a/.idea/CoursePythonGB.iml	
++++ b/.idea/CoursePythonGB.iml	
+@@ -1,12 +1,5 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/venv" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
++<module version="4">
+   <component name="PyDocumentationSettings">
+     <option name="format" value="PLAIN" />
+     <option name="myDocStringFormat" value="Plain" />
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"908fec14-7d1f-4e8a-8b9e-7bf5965e375c\" name=\"Changes\" comment=\"Task 5 done\">\r\n      <change afterPath=\"$PROJECT_DIR$/HomeWork_2/task_6.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/venv/Scripts/pygmentize.exe\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"recentNewPullRequestHead\">\r\n      <RepoCoordinatesHolder>\r\n        <option name=\"owner\" value=\"PavelPodymov\" />\r\n        <option name=\"repository\" value=\"CoursePythonGB\" />\r\n      </RepoCoordinatesHolder>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2HtuMTbDnvKWgkgnPjPPxRSCgNP\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\r\n    \"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"last_opened_file_path\": \"D:/GeekBrains/Python/CoursePythonGB\",\r\n    \"settings.editor.selected.configurable\": \"preferences.sourceCode\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Python.task_6\">\r\n    <configuration name=\"task_2\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CoursePythonGB\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/HomeWork_2\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/HomeWork_2/task_2.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"task_3\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CoursePythonGB\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/HomeWork_2\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/HomeWork_2/task_3.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"task_4\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CoursePythonGB\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/HomeWork_2\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/HomeWork_2/task_4.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"task_5\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CoursePythonGB\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/HomeWork_2\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/HomeWork_2/task_5.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"task_6\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CoursePythonGB\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/HomeWork_2\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/HomeWork_2/task_6.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.task_6\" />\r\n        <item itemvalue=\"Python.task_5\" />\r\n        <item itemvalue=\"Python.task_4\" />\r\n        <item itemvalue=\"Python.task_3\" />\r\n        <item itemvalue=\"Python.task_2\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"908fec14-7d1f-4e8a-8b9e-7bf5965e375c\" name=\"Changes\" comment=\"\" />\r\n      <created>1669116652674</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1669116652674</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"initial main\">\r\n      <created>1669116827105</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669116827105</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Task №1 done\">\r\n      <created>1669124541096</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669124541096</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Task №2 done\">\r\n      <created>1669124760784</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669124760784</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Task №3 done\">\r\n      <created>1669140004877</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669140004877</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Task №4 done\">\r\n      <created>1669190140819</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669190140819</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Task №6 done\">\r\n      <created>1669191641812</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669191641812</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Task №4 delete line with print\">\r\n      <created>1669192552466</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669192552466</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Task №5 done\">\r\n      <created>1669193229033</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669193229033</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Extra example №1 done\">\r\n      <created>1669194951031</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669194951031</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"fix style\">\r\n      <created>1669195391262</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669195391262</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"fix style\">\r\n      <created>1669195516667</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669195516667</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"fix style\">\r\n      <created>1669195846205</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669195846205</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Extra example 3 done\">\r\n      <created>1669198528872</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669198528872</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"fix language\">\r\n      <created>1669198726709</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669198726709</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Extra example №4 done\">\r\n      <created>1669199482814</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669199482814</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Extra example №5 done\">\r\n      <created>1669203051799</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669203051799</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Extra example №2 done\">\r\n      <created>1669206370771</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669206370771</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"change text\">\r\n      <created>1669209383118</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669209383118</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"change text\">\r\n      <created>1669209882582</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669209882582</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"change text\">\r\n      <created>1669226374710</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669226374710</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"Extra example 1 done\">\r\n      <created>1669316421303</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669316421303</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"Extra example 2 done\">\r\n      <created>1669317679083</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669317679083</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"Extra example 5 done\">\r\n      <created>1669387630394</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669387630394</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"Extra example 4 done\">\r\n      <created>1669390555550</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669390555550</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00025\" summary=\"Task 1 done\">\r\n      <created>1669391522508</created>\r\n      <option name=\"number\" value=\"00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00025\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669391522508</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00026\" summary=\"Task 2 done\">\r\n      <created>1669392267788</created>\r\n      <option name=\"number\" value=\"00026\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00026\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669392267788</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00027\" summary=\"Task 3 done\">\r\n      <created>1669394471694</created>\r\n      <option name=\"number\" value=\"00027\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00027\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669394471694</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00028\" summary=\"Task 4 done\">\r\n      <created>1669395277811</created>\r\n      <option name=\"number\" value=\"00028\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00028\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669395277811</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00029\" summary=\"Task 5 done\">\r\n      <created>1669397451443</created>\r\n      <option name=\"number\" value=\"00029\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00029\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669397451443</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"30\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"HEAD\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"HEAD\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"master\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"answer\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"initial main\" />\r\n    <MESSAGE value=\"Task №1 done\" />\r\n    <MESSAGE value=\"Task №2 done\" />\r\n    <MESSAGE value=\"Task №3 done\" />\r\n    <MESSAGE value=\"Task №4 done\" />\r\n    <MESSAGE value=\"Task №6 done\" />\r\n    <MESSAGE value=\"Task №4 delete line with print\" />\r\n    <MESSAGE value=\"Task №5 done\" />\r\n    <MESSAGE value=\"Extra example №1 done\" />\r\n    <MESSAGE value=\"fix style\" />\r\n    <MESSAGE value=\"Extra example 3 done\" />\r\n    <MESSAGE value=\"fix language\" />\r\n    <MESSAGE value=\"Extra example №4 done\" />\r\n    <MESSAGE value=\"Extra example №5 done\" />\r\n    <MESSAGE value=\"Extra example №2 done\" />\r\n    <MESSAGE value=\"change text\" />\r\n    <MESSAGE value=\"Extra example 1 done\" />\r\n    <MESSAGE value=\"Extra example 2 done\" />\r\n    <MESSAGE value=\"Extra example 5 done\" />\r\n    <MESSAGE value=\"Extra example 4 done\" />\r\n    <MESSAGE value=\"Task 1 done\" />\r\n    <MESSAGE value=\"Task 2 done\" />\r\n    <MESSAGE value=\"Task 3 done\" />\r\n    <MESSAGE value=\"Task 4 done\" />\r\n    <MESSAGE value=\"Task 5 done\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Task 5 done\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,21 +4,19 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="908fec14-7d1f-4e8a-8b9e-7bf5965e375c" name="Changes" comment="Task 5 done">
+-      <change afterPath="$PROJECT_DIR$/HomeWork_2/task_6.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/venv/Scripts/pygmentize.exe" afterDir="false" />
++    <list default="true" id="b9cfb6ec-8407-4ae9-b6e5-a6beefceb030" name="Changes" comment="For checking">
++      <change beforePath="$PROJECT_DIR$/.idea/CoursePythonGB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CoursePythonGB.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_11_2022_16_46__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_11_2022_16_46__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_20_49__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_20_49__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_11_2022_11_42__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_11_2022_11_42__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/HomeWork_2/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_2/task_3.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Python Script" />
+-      </list>
+-    </option>
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+@@ -28,21 +26,10 @@
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GithubPullRequestsUISettings">
+-    <option name="recentNewPullRequestHead">
+-      <RepoCoordinatesHolder>
+-        <option name="owner" value="PavelPodymov" />
+-        <option name="repository" value="CoursePythonGB" />
+-      </RepoCoordinatesHolder>
+-    </option>
+-  </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+-  <component name="ProblemsViewState">
+-    <option name="selectedTabId" value="CurrentFile" />
+-  </component>
+-  <component name="ProjectId" id="2HtuMTbDnvKWgkgnPjPPxRSCgNP" />
++  <component name="ProjectId" id="2I4tKa95Yu5JPd45TqWFFqlgk8G" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+     <ConfirmationsSetting value="2" id="Add" />
+   </component>
+@@ -52,37 +39,13 @@
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+-    "ASKED_ADD_EXTERNAL_FILES": "true",
+-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "last_opened_file_path": "D:/GeekBrains/Python/CoursePythonGB",
+-    "settings.editor.selected.configurable": "preferences.sourceCode"
++    "last_opened_file_path": "D:/GeekBrains/Python/Урок 1/Урок 1. Коды примеров"
+   }
+ }]]></component>
+-  <component name="RunManager" selected="Python.task_6">
+-    <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-      <module name="CoursePythonGB" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <envs>
+-        <env name="PYTHONUNBUFFERED" value="1" />
+-      </envs>
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork_2" />
+-      <option name="IS_MODULE_SDK" value="true" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_2/task_2.py" />
+-      <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
+-      <option name="EMULATE_TERMINAL" value="false" />
+-      <option name="MODULE_MODE" value="false" />
+-      <option name="REDIRECT_INPUT" value="false" />
+-      <option name="INPUT_FILE" value="" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++  <component name="RunManager" selected="Python.task_3">
++    <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="CoursePythonGB" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -94,7 +57,7 @@
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_2/task_3.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_2/task_1.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -103,7 +66,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="CoursePythonGB" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -115,7 +78,7 @@
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_2/task_4.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_2/task_2.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -124,7 +87,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="task_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="CoursePythonGB" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -136,7 +99,7 @@
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_2/task_5.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_2/task_3.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -168,227 +131,37 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Python.task_6" />
+-        <item itemvalue="Python.task_5" />
+-        <item itemvalue="Python.task_4" />
+         <item itemvalue="Python.task_3" />
+         <item itemvalue="Python.task_2" />
++        <item itemvalue="Python.task_1" />
++        <item itemvalue="Python.task_6" />
+       </list>
+     </recent_temporary>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+-      <changelist id="908fec14-7d1f-4e8a-8b9e-7bf5965e375c" name="Changes" comment="" />
+-      <created>1669116652674</created>
++      <changelist id="b9cfb6ec-8407-4ae9-b6e5-a6beefceb030" name="Changes" comment="" />
++      <created>1669452620171</created>
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+-      <updated>1669116652674</updated>
++      <updated>1669452620171</updated>
+     </task>
+-    <task id="LOCAL-00001" summary="initial main">
+-      <created>1669116827105</created>
++    <task id="LOCAL-00001" summary="Task 6 done">
++      <created>1669471152457</created>
+       <option name="number" value="00001" />
+       <option name="presentableId" value="LOCAL-00001" />
+       <option name="project" value="LOCAL" />
+-      <updated>1669116827105</updated>
++      <updated>1669471152457</updated>
+     </task>
+-    <task id="LOCAL-00002" summary="Task №1 done">
+-      <created>1669124541096</created>
++    <task id="LOCAL-00002" summary="For checking">
++      <created>1669471834701</created>
+       <option name="number" value="00002" />
+       <option name="presentableId" value="LOCAL-00002" />
+       <option name="project" value="LOCAL" />
+-      <updated>1669124541096</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="Task №2 done">
+-      <created>1669124760784</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669124760784</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="Task №3 done">
+-      <created>1669140004877</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669140004877</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="Task №4 done">
+-      <created>1669190140819</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669190140819</updated>
++      <updated>1669471834701</updated>
+     </task>
+-    <task id="LOCAL-00006" summary="Task №6 done">
+-      <created>1669191641812</created>
+-      <option name="number" value="00006" />
+-      <option name="presentableId" value="LOCAL-00006" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669191641812</updated>
+-    </task>
+-    <task id="LOCAL-00007" summary="Task №4 delete line with print">
+-      <created>1669192552466</created>
+-      <option name="number" value="00007" />
+-      <option name="presentableId" value="LOCAL-00007" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669192552466</updated>
+-    </task>
+-    <task id="LOCAL-00008" summary="Task №5 done">
+-      <created>1669193229033</created>
+-      <option name="number" value="00008" />
+-      <option name="presentableId" value="LOCAL-00008" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669193229033</updated>
+-    </task>
+-    <task id="LOCAL-00009" summary="Extra example №1 done">
+-      <created>1669194951031</created>
+-      <option name="number" value="00009" />
+-      <option name="presentableId" value="LOCAL-00009" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669194951031</updated>
+-    </task>
+-    <task id="LOCAL-00010" summary="fix style">
+-      <created>1669195391262</created>
+-      <option name="number" value="00010" />
+-      <option name="presentableId" value="LOCAL-00010" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669195391262</updated>
+-    </task>
+-    <task id="LOCAL-00011" summary="fix style">
+-      <created>1669195516667</created>
+-      <option name="number" value="00011" />
+-      <option name="presentableId" value="LOCAL-00011" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669195516667</updated>
+-    </task>
+-    <task id="LOCAL-00012" summary="fix style">
+-      <created>1669195846205</created>
+-      <option name="number" value="00012" />
+-      <option name="presentableId" value="LOCAL-00012" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669195846205</updated>
+-    </task>
+-    <task id="LOCAL-00013" summary="Extra example 3 done">
+-      <created>1669198528872</created>
+-      <option name="number" value="00013" />
+-      <option name="presentableId" value="LOCAL-00013" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669198528872</updated>
+-    </task>
+-    <task id="LOCAL-00014" summary="fix language">
+-      <created>1669198726709</created>
+-      <option name="number" value="00014" />
+-      <option name="presentableId" value="LOCAL-00014" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669198726709</updated>
+-    </task>
+-    <task id="LOCAL-00015" summary="Extra example №4 done">
+-      <created>1669199482814</created>
+-      <option name="number" value="00015" />
+-      <option name="presentableId" value="LOCAL-00015" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669199482814</updated>
+-    </task>
+-    <task id="LOCAL-00016" summary="Extra example №5 done">
+-      <created>1669203051799</created>
+-      <option name="number" value="00016" />
+-      <option name="presentableId" value="LOCAL-00016" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669203051799</updated>
+-    </task>
+-    <task id="LOCAL-00017" summary="Extra example №2 done">
+-      <created>1669206370771</created>
+-      <option name="number" value="00017" />
+-      <option name="presentableId" value="LOCAL-00017" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669206370771</updated>
+-    </task>
+-    <task id="LOCAL-00018" summary="change text">
+-      <created>1669209383118</created>
+-      <option name="number" value="00018" />
+-      <option name="presentableId" value="LOCAL-00018" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669209383118</updated>
+-    </task>
+-    <task id="LOCAL-00019" summary="change text">
+-      <created>1669209882582</created>
+-      <option name="number" value="00019" />
+-      <option name="presentableId" value="LOCAL-00019" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669209882582</updated>
+-    </task>
+-    <task id="LOCAL-00020" summary="change text">
+-      <created>1669226374710</created>
+-      <option name="number" value="00020" />
+-      <option name="presentableId" value="LOCAL-00020" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669226374710</updated>
+-    </task>
+-    <task id="LOCAL-00021" summary="Extra example 1 done">
+-      <created>1669316421303</created>
+-      <option name="number" value="00021" />
+-      <option name="presentableId" value="LOCAL-00021" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669316421303</updated>
+-    </task>
+-    <task id="LOCAL-00022" summary="Extra example 2 done">
+-      <created>1669317679083</created>
+-      <option name="number" value="00022" />
+-      <option name="presentableId" value="LOCAL-00022" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669317679083</updated>
+-    </task>
+-    <task id="LOCAL-00023" summary="Extra example 5 done">
+-      <created>1669387630394</created>
+-      <option name="number" value="00023" />
+-      <option name="presentableId" value="LOCAL-00023" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669387630394</updated>
+-    </task>
+-    <task id="LOCAL-00024" summary="Extra example 4 done">
+-      <created>1669390555550</created>
+-      <option name="number" value="00024" />
+-      <option name="presentableId" value="LOCAL-00024" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669390555550</updated>
+-    </task>
+-    <task id="LOCAL-00025" summary="Task 1 done">
+-      <created>1669391522508</created>
+-      <option name="number" value="00025" />
+-      <option name="presentableId" value="LOCAL-00025" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669391522508</updated>
+-    </task>
+-    <task id="LOCAL-00026" summary="Task 2 done">
+-      <created>1669392267788</created>
+-      <option name="number" value="00026" />
+-      <option name="presentableId" value="LOCAL-00026" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669392267788</updated>
+-    </task>
+-    <task id="LOCAL-00027" summary="Task 3 done">
+-      <created>1669394471694</created>
+-      <option name="number" value="00027" />
+-      <option name="presentableId" value="LOCAL-00027" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669394471694</updated>
+-    </task>
+-    <task id="LOCAL-00028" summary="Task 4 done">
+-      <created>1669395277811</created>
+-      <option name="number" value="00028" />
+-      <option name="presentableId" value="LOCAL-00028" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669395277811</updated>
+-    </task>
+-    <task id="LOCAL-00029" summary="Task 5 done">
+-      <created>1669397451443</created>
+-      <option name="number" value="00029" />
+-      <option name="presentableId" value="LOCAL-00029" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669397451443</updated>
+-    </task>
+-    <option name="localTasksCounter" value="30" />
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -402,7 +175,7 @@
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="HEAD" />
++                        <option value="answer" />
+                       </list>
+                     </value>
+                   </entry>
+@@ -413,59 +186,10 @@
+         </entry>
+       </map>
+     </option>
+-    <option name="RECENT_FILTERS">
+-      <map>
+-        <entry key="Branch">
+-          <value>
+-            <list>
+-              <RecentGroup>
+-                <option name="FILTER_VALUES">
+-                  <option value="HEAD" />
+-                </option>
+-              </RecentGroup>
+-              <RecentGroup>
+-                <option name="FILTER_VALUES">
+-                  <option value="master" />
+-                </option>
+-              </RecentGroup>
+-              <RecentGroup>
+-                <option name="FILTER_VALUES">
+-                  <option value="answer" />
+-                </option>
+-              </RecentGroup>
+-            </list>
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+-    <MESSAGE value="initial main" />
+-    <MESSAGE value="Task №1 done" />
+-    <MESSAGE value="Task №2 done" />
+-    <MESSAGE value="Task №3 done" />
+-    <MESSAGE value="Task №4 done" />
+-    <MESSAGE value="Task №6 done" />
+-    <MESSAGE value="Task №4 delete line with print" />
+-    <MESSAGE value="Task №5 done" />
+-    <MESSAGE value="Extra example №1 done" />
+-    <MESSAGE value="fix style" />
+-    <MESSAGE value="Extra example 3 done" />
+-    <MESSAGE value="fix language" />
+-    <MESSAGE value="Extra example №4 done" />
+-    <MESSAGE value="Extra example №5 done" />
+-    <MESSAGE value="Extra example №2 done" />
+-    <MESSAGE value="change text" />
+-    <MESSAGE value="Extra example 1 done" />
+-    <MESSAGE value="Extra example 2 done" />
+-    <MESSAGE value="Extra example 5 done" />
+-    <MESSAGE value="Extra example 4 done" />
+-    <MESSAGE value="Task 1 done" />
+-    <MESSAGE value="Task 2 done" />
+-    <MESSAGE value="Task 3 done" />
+-    <MESSAGE value="Task 4 done" />
+-    <MESSAGE value="Task 5 done" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Task 5 done" />
++    <MESSAGE value="Task 6 done" />
++    <MESSAGE value="For checking" />
++    <option name="LAST_COMMIT_MESSAGE" value="For checking" />
+   </component>
+ </project>
+\ No newline at end of file
