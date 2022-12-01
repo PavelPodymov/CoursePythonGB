@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="711c1105-077f-49b6-998f-2174a57d2bfd" name="Changes" comment="For checking 3">
+    <list default="true" id="711c1105-077f-49b6-998f-2174a57d2bfd" name="Changes" comment="For checking 4">
       <change beforePath="$PROJECT_DIR$/HomeWork_3/extra_example_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/extra_example_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork_3/extra_example_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/extra_example_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork_3/extra_example_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/extra_example_3.py" afterDir="false" />
@@ -23,6 +23,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -45,6 +50,14 @@
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="For checking 4">
+      <created>1669899641616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669899641616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -52,10 +65,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="ans" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="For checking 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="For checking 4" />
   </component>
 </project>

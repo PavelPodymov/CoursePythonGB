@@ -7,17 +7,16 @@ For checking
 """
 
 
-def personal_descriptions(**kwargs):
+def personal_description(**kwargs):
     """Function take information from person"""
-
     return kwargs
 
 
-print(personal_descriptions(
+print(personal_description(
     name='Pavel',
     secname='Podymov',
-    years=1982,
+    year=1982,
     city='Lubertsy',
     email='erer@gmail.com',
-    phone=123456789
+    phon=123456789
 ))
