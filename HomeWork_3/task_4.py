@@ -24,16 +24,16 @@ def my_func_1(x_ar, y_ar):
 def my_func_2(x_ar, y_ar):
     """return power"""
 
-    def mylt(x_a, y_a):
+    def mult(x_a, y_a):
         multiply = 1
         for _ in range(abs(y_a)):
             multiply *= x_a
         return multiply
 
     if y_ar < 0:
-        result = 1 / mylt(x_ar, y_ar)
+        result = 1 / mult(x_ar, y_ar)
     else:
-        result = mylt(x_ar, y_ar)
+        result = mult(x_ar, y_ar)
     return result
 
 
