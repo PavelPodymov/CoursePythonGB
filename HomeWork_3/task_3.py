@@ -5,6 +5,7 @@ For checking
 """
 
 
+
 def my_func(*args):
     """Take three argument and return sum max of them
     also show sorted tuple and numbers that we will sum"""
@@ -16,4 +17,3 @@ def my_func(*args):
 
 a, b, s = map(int, input().strip().split())
 my_func(a, b, s)
-

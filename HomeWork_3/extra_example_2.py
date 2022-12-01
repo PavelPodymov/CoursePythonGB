@@ -10,7 +10,9 @@ For checking
 import math
 
 my_list = list(map(int, input("Input your numbers: ").strip().split()))
-leng = len(my_list)
-new_list = [my_list[i] * my_list[leng - i - 1] for i in
-            range(math.ceil(leng / 2))]
+length = len(my_list)
+new_list = [my_list[i] * my_list[length - i - 1] for i in
+            range(math.ceil(length / 2))]
 print(new_list)
+
+

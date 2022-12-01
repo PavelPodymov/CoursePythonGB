@@ -31,4 +31,4 @@ list_my_2 = [fib_neg(n) for n in range(-your_number, 0)]
 print(list_my_1)
 print(list_my_2)
 print(list_my_2 + list_my_1)
-print(*list_my_2 + list_my_1)
+
