@@ -6,18 +6,18 @@ For checking
 """
 
 
-def division_two_numbers(num_1, num_2):
+def division_two_number(numb_1, numb_2):
     """Division two numbers"""
-    if num_2 == 0:
+    if numb_2 == 0:
         print("You can't divide because denominator equal '0'")
     else:
-        print(num_1 / num_2)
+        print(numb_1 / numb_2)
 
 
-START = True
-while START:
+STARTS = True
+while STARTS:
     nums_1, nums_2 = map(int, input("Your numbers: ").strip().split())
-    division_two_numbers(nums_1, nums_2)
+    division_two_number(nums_1, nums_2)
     yes_no = input("N or something: ").lower()
     if yes_no == 'n':
-        START = False
+        STARTS = False

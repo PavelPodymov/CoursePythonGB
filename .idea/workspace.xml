@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="711c1105-077f-49b6-998f-2174a57d2bfd" name="Changes" comment="">
+    <list default="true" id="711c1105-077f-49b6-998f-2174a57d2bfd" name="Changes" comment="For checking 3">
+      <change beforePath="$PROJECT_DIR$/HomeWork_3/extra_example_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/extra_example_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_3/extra_example_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/extra_example_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_3/extra_example_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/extra_example_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_3/extra_example_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/extra_example_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_3/extra_example_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/extra_example_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_3/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_3/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_3/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_3/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_3/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/task_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork_3/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_3/task_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

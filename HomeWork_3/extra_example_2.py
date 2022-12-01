@@ -6,13 +6,9 @@ For checking
 - [2, 3, 4, 5, 6] => [12, 15, 16];
 - [2, 3, 5, 6] => [12, 15]
 """
-
 import math
-
-my_list = list(map(int, input("Input your numbers: ").strip().split()))
-length = len(my_list)
-new_list = [my_list[i] * my_list[length - i - 1] for i in
-            range(math.ceil(length / 2))]
+my_lst = list(map(int, input("Input your numbers: ").strip().split()))
+lngth = len(my_lst)
+new_list = [my_lst[i] * my_lst[lngth - i - 1] for i in
+            range(math.ceil(lngth / 2))]
 print(new_list)
-
-
