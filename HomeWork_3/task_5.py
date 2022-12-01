@@ -9,6 +9,7 @@ For checking
 то вначале нужно добавить сумму этих чисел к полученной ранее сумме и
 после этого завершить программу.
 """
+
 START = True
 RESULT = 0
 while START:
@@ -32,4 +33,3 @@ while START:
         START = False
     elif input("Continue write N or miss: ").lower() == 'n':
         START = False
-

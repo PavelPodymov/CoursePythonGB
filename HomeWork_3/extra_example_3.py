@@ -8,7 +8,6 @@ For checking
 - [1.1, 1.2, 3.1, 5, 10.01] => 0.19
 """
 
-
 def difference_min_man(some_list):
     """minus fractional parts max and min"""
     min_part, max_part = some_list[0] % 1, some_list[0] % 1
@@ -24,4 +23,4 @@ def difference_min_man(some_list):
 my_list = list(map(float, input("Input your numbers: ").strip().split()))
 result = difference_min_man(my_list)
 print(f"{result:.2f}")
-print(result)
+

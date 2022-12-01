@@ -21,4 +21,3 @@ print(personal_description(
     phone=123456789
 ))
 
-
