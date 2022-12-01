@@ -5,15 +5,14 @@ For checking
 """
 
 
-def my_func(*args):
+def my_funcs(*args):
     """Take three argument and return sum max of them
     also show sorted tuple and numbers that we will sum"""
+    my_tuple = sorted(args)
+    print(my_tuple)
+    print(*my_tuple[1:])
+    print(f"Your sum is: {sum(my_tuple[1:])}")
 
-    tuple_my = sorted(args)
-    print(tuple_my)
-    print(*tuple_my[1:])
-    print(f"Your sum is: {sum(tuple_my[1:])}")
 
-
-a, b, s = map(int, input().strip().split())
-my_func(a, b, s)
+a, b, c = map(int, input().strip().split())
+my_funcs(a, b, s)
