@@ -43,3 +43,4 @@ y_arg = int(input("Your number (y < 0 and type - int) Y: "))
 
 print(my_func_1(x_arg, y_arg))
 print(my_func_2(x_arg, y_arg))
+

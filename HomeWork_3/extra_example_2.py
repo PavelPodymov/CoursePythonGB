@@ -6,6 +6,7 @@ For checking
 - [2, 3, 4, 5, 6] => [12, 15, 16];
 - [2, 3, 5, 6] => [12, 15]
 """
+
 import math
 
 my_list = list(map(int, input("Input your numbers: ").strip().split()))
