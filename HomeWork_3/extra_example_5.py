@@ -8,27 +8,27 @@ For checking
 """
 
 
-def fibo(sm_numb):
+def fib(sm_num):
     """Fibonacci"""
-    if sm_numb in {0, 1}:
-        return sm_numb
-    return fibo(sm_numb - 1) + fibo(sm_numb - 2)
+    if sm_num in {0, 1}:
+        return sm_num
+    return fib(sm_num - 1) + fib(sm_num - 2)
 
 
-def fibo_neg(some_numb):
+def fib_neg(some_num):
     """negative index Fibonacci"""
-    if some_numb == -1:
+    if some_num == -1:
         return 1
-    if some_numb == -2:
+    if some_num == -2:
         return -1
-    return fibo_neg(some_numb + 2) - fibo_neg(some_numb + 1)
+    return fib_neg(some_num + 2) - fib_neg(some_num + 1)
 
 
 your_numb = int(input("Your number: "))
-lst_my_1 = [fibo(n) for n in range(your_numb + 1)]
-lst_my_2 = [fibo_neg(n) for n in range(-your_numb, 0)]
+list_my_1 = [fib(n) for n in range(your_numb + 1)]
+list_my_2 = [fib_neg(n) for n in range(-your_numb, 0)]
 
-print(lst_my_1)
-print(lst_my_2)
-print(lst_my_2 + lst_my_1)
+print(list_my_1)
+print(list_my_2)
+print(list_my_2 + list_my_1)
 

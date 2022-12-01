@@ -10,26 +10,26 @@ For checking
 после этого завершить программу.
 """
 
-STARTS = True
-RESULTs = 0
-while STARTS:
-    you_numbs = list(input("List of number: ").strip().split())
+START = True
+RESULT = 0
+while START:
+    you_numb = list(input("List of number: ").strip().split())
     COUNT = 0
-    len_list = len(you_numbs)
-    while COUNT < len_list:
+    len_lst = len(you_numb)
+    while COUNT < len_lst:
 
-        if you_numbs[COUNT].lower() == 'n':
-            COUNT = len_list
-            STARTS = False
+        if you_numb[COUNT].lower() == 'n':
+            COUNT = len_lst
+            START = False
         else:
             try:
-                RESULTs += int(you_numbs[COUNT])
+                RESULT += int(you_numb[COUNT])
                 COUNT += 1
             except ValueError:
                 COUNT += 1
 
-    print(RESULTs)
-    if STARTS is not True:
-        STARTS = False
+    print(RESULT)
+    if START is not True:
+        START = False
     elif input("Continue write N or miss: ").lower() == 'n':
-        STARTS = False
+        START = False

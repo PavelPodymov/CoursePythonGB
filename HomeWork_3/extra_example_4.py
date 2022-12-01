@@ -8,14 +8,14 @@ For checking
 """
 
 
-def dec_binary(some_num, results=''):
+def dec_binar(some_n, result=''):
     """convert number to binary number"""
-    if some_num != 0:
-        results += dec_binary(some_num // 2, results) + str(some_num % 2)
-    return results
+    if some_n != 0:
+        result += dec_binar(some_n // 2, result) + str(some_n % 2)
+    return result
 
 
-print(dec_binary(5))
-print(dec_binary(43))
-print(dec_binary(2))
-print(dec_binary(2))
+print(dec_binar(5))
+print(dec_binar(43))
+print(dec_binar(2))
+print(dec_binar(2))
