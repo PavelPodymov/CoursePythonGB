@@ -16,3 +16,4 @@ def my_func(*args):
 
 a, b, s = map(int, input().strip().split())
 my_func(a, b, s)
+

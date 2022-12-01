@@ -24,3 +24,4 @@ def difference_min_man(some_list):
 my_list = list(map(float, input("Input your numbers: ").strip().split()))
 result = difference_min_man(my_list)
 print(f"{result:.2f}")
+print(result)

@@ -18,3 +18,4 @@ def dec_bin(some_n, result=''):
 print(dec_bin(45))
 print(dec_bin(3))
 print(dec_bin(2))
+print(dec_bin(3))

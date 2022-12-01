@@ -32,3 +32,4 @@ while START:
         START = False
     elif input("Continue write N or miss: ").lower() == 'n':
         START = False
+

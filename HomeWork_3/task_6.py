@@ -18,3 +18,4 @@ def int_func(some_string):
 print(int_func("text"))
 
 print(int_func(input("Your string: ")))
+
