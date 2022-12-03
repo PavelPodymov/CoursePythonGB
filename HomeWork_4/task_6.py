@@ -9,3 +9,30 @@
 числа 10 завершаем цикл. Во втором также необходимо предусмотреть условие,
 при котором повторение элементов списка будет прекращено.
 """
+from itertools import count, cycle
+from random import randint
+
+start, end, step = map(int, input("you number start, end and step: ").split())
+for el in count(start, step=step):
+    if el < end:
+        print(el)
+    else:
+        break
+
+CNT = 0
+list_my = [randint(start, end) for i in range(1, 11)]
+print(list_my)
+for el in cycle(list_my):
+    if CNT < len(list_my):
+        print(el)
+    else:
+        break
+    CNT += 1
+COUNTER = 0
+STRING = "itertools"
+for el in cycle(STRING):
+    if COUNTER < len(STRING):
+        print(el)
+    else:
+        break
+    COUNTER += 1
