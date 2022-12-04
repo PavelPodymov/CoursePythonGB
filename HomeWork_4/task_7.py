@@ -7,3 +7,41 @@ for el in fact(n). Функция отвечает за получение фа�
 Подсказка: факториал числа n — произведение чисел от 1 до n. Например,
 факториал четырёх 4! = 1 * 2 * 3 * 4 = 24.
 """
+from functools import reduce
+
+
+def fact(some_n):
+    """generator"""
+    yield reduce(lambda x, y: x * y, range(1, some_n + 1))
+
+
+def fact_list(some_n):
+    """generator"""
+    my_list = [reduce(lambda x, y: x * y, range(1, j + 1))
+               for j in range(1, some_n + 1)]
+    for elem in my_list:
+        yield elem
+
+
+def fact_diction(some):
+    """generator"""
+    my_dict = {f"{j}!": reduce(lambda x, y: x * y, range(1, j + 1))
+               for j in range(1, some + 1)}
+    for k, val in my_dict.items():
+        yield k, val
+
+
+you_number = int(input("Your number: "))
+
+for el in fact(you_number):
+    print(f"{you_number}! = {el}")
+
+print(*fact_diction(you_number))
+# # or
+# for el in fact_diction(you_number):
+#     print(f"{el}")
+
+print(*fact_list(you_number))
+# or
+# for el in fact_list(you_number):
+#     print(el)
