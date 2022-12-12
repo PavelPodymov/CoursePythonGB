@@ -4,23 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="711c1105-077f-49b6-998f-2174a57d2bfd" name="Changes" comment="initial homework 6">
-      <change afterPath="$PROJECT_DIR$/HomeWork_6/code_1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork_6/code_2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork_6/code_3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork_6/code_4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork_6/code_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork_6/code_4_testing.py" afterDir="false" />
+    <list default="true" id="711c1105-077f-49b6-998f-2174a57d2bfd" name="Changes" comment="initial HomeWork 6">
       <change afterPath="$PROJECT_DIR$/HomeWork_6/task_4_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/some_txt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6/code_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_6/code_1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork_6/code_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_6/code_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork_6/code_1_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_6/code_1_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6/code_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_6/code_2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork_6/code_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_6/code_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork_6/code_2_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_6/code_2_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6/code_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_6/code_3.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork_6/code_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_6/code_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork_6/code_3_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_6/code_3_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6/code_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_6/code_4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6/code_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_6/code_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6/code_4_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_6/code_4_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/code_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/code_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/code_1_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/code_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/code_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/code_2_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/code_3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/code_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/code_3_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/code_4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/code_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/code_4_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_6_1/task_4_file.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +48,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="answer" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,7 +80,7 @@
       <recent name="D:\GeekBrains\Python\CoursePythonGB" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.code_3_testing">
+  <component name="RunManager" selected="Python.code_2_testing">
     <configuration name="code_1_testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CoursePythonGB" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="code_2_testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CoursePythonGB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_6/code_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_6/code_2_testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code_2_testing" />
+        <item itemvalue="Python.code_1_testing" />
         <item itemvalue="Python.code_3_testing" />
         <item itemvalue="Python.code_4_testing" />
         <item itemvalue="Python.code_4" />
-        <item itemvalue="Python.code_3" />
-        <item itemvalue="Python.code_1_testing" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670590435936</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="initial HomeWork 6">
+      <created>1670834349641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670834349641</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +271,7 @@
     <MESSAGE value="Initial HomeWork 5" />
     <MESSAGE value="HomeWork 5 Done" />
     <MESSAGE value="initial homework 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial homework 6" />
+    <MESSAGE value="initial HomeWork 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial HomeWork 6" />
   </component>
 </project>
