@@ -1,7 +1,5 @@
 """Testing code"""
 from timeit import timeit
-from code_1 import fun_1, fun_2
-
 
 print(timeit("fun_1", globals=globals()))
 print(timeit("fun_2", globals=globals()))
