@@ -1,6 +1,5 @@
 """Power"""
 from timeit import timeit
-from code_3 import my_func_1, my_func_21
 
 print(timeit("my_func_1", globals=globals()))
 print(timeit("my_func_21", globals=globals()))

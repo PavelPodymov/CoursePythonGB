@@ -1,6 +1,5 @@
 """find max number"""
 from timeit import timeit
-from code_2 import max_number_2, max_number, max_number_3
 
 print(timeit("max_number", globals=globals()))
 print(timeit("max_number_2", globals=globals()))
