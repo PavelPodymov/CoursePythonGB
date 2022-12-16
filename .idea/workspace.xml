@@ -4,24 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="711c1105-077f-49b6-998f-2174a57d2bfd" name="Changes" comment="initial Homework 7">
-      <change afterPath="$PROJECT_DIR$/HomeWork_7/task_1_trafficLight/traffic_light.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork_7/task_2_road/road.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork_7/task_3_worker/worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork_7/task_4_car/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork_7/task_5_stationery/stationery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson/main.py" afterDir="false" />
+    <list default="true" id="711c1105-077f-49b6-998f-2174a57d2bfd" name="Changes" comment="Homework 7 Done">
+      <change afterPath="$PROJECT_DIR$/HomeWork_8/task_1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_8/task_1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_8/task_2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_8/task_2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_8/task_3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_8/task_3/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_7/task_1_trafficLight/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_7/task_1_trafficLight/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_7/task_1_trafficLight/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_7/task_1_trafficLight/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_7/task_2_road/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_7/task_2_road/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_7/task_2_road/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_7/task_2_road/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_7/task_3_worker/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_7/task_3_worker/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_7/task_3_worker/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_7/task_3_worker/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_7/task_4_car/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_7/task_4_car/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_7/task_4_car/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_7/task_4_car/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_7/task_5_stationery/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_7/task_5_stationery/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_7/task_5_stationery/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_7/task_5_stationery/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +45,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/GeekBrains/Python/Урок 7/Урок 7. Коды примеров",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GeekBrains/Python/Урок 7/Урок 7. Коды примеров&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\GeekBrains\Python\CoursePythonGB\HomeWork_6" />
@@ -244,7 +235,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="answer" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
