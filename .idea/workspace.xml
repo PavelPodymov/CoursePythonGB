@@ -4,16 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="711c1105-077f-49b6-998f-2174a57d2bfd" name="Changes" comment="Homework 8 Done">
-      <change afterPath="$PROJECT_DIR$/HomeWork_8/task_1/matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork_8/task_2/cell.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork_8/task_3/zerodivisionexeption.py" afterDir="false" />
+    <list default="true" id="711c1105-077f-49b6-998f-2174a57d2bfd" name="Changes" comment="Homework 7 Done">
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_1/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_10/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_10/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_11/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_11/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_2/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_3/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_4/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_5/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_6/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_6/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_7/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_7/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_8/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_8/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_9/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_9/code_9/test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Lesson/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_8/task_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_8/task_1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_8/task_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_8/task_2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_8/task_2/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_8/task_2/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_8/task_3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_8/task_3/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,32 +65,33 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/GeekBrains/Python/CoursePythonGB",
+    "last_opened_file_path": "D:/GeekBrains/Python/CoursePythonGB/HomeWork_9/code_1/test.py",
     "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GeekBrains\Python\CoursePythonGB\HomeWork_9" />
       <recent name="D:\GeekBrains\Python\CoursePythonGB\HomeWork_6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GeekBrains\Python\CoursePythonGB" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
-    <configuration name="cell" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in test.py">
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python">
       <module name="CoursePythonGB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork_8/task_2" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\pollp\AppData\Local\Programs\Python\Python311\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork_9/code_1" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_8/task_2/cell.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_9/code_1/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,99 +100,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="CoursePythonGB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork_8/task_1" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\pollp\AppData\Local\Programs\Python\Python311\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_8/task_1/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/HomeWork_9/code_1/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CoursePythonGB" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork_8/task_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_8/task_3/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CoursePythonGB" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork_8/task_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_8/task_2/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CoursePythonGB" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork_8/task_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork_8/task_1/matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.cell" />
-        <item itemvalue="Python.matrix" />
-        <item itemvalue="Python.main (1)" />
-      </list>
-    </recent_temporary>
+    <list>
+      <item itemvalue="Python.tests" />
+      <item itemvalue="Python tests.Unittests in test.py" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -222,14 +164,7 @@
       <option name="project" value="LOCAL" />
       <updated>1670917229798</updated>
     </task>
-    <task id="LOCAL-00006" summary="initial homework 8">
-      <created>1671222963509</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1671222963509</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,7 +178,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="answer" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -261,8 +196,6 @@
     <MESSAGE value="HomeWork 5 Done" />
     <MESSAGE value="initial homework 6" />
     <MESSAGE value="initial Homework 7" />
-    <MESSAGE value="initial homework 8" />
-    <MESSAGE value="Homework 8 Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 8 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial Homework 7" />
   </component>
 </project>
