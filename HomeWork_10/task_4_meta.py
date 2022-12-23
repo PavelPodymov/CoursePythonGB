@@ -8,7 +8,7 @@ class MyMetaClass(type):
     def __new__(cls, name, bases, dct):
         """new"""
         if cls._instance is None:
-            cls._instance = super(MyMetaClass, cls).__new__(cls, name, bases, dct)
+            cls._instance = super().__new__(cls, name, bases, dct)
         else:
             return cls._instance
 
@@ -22,3 +22,7 @@ TestObj = Test
 TestObject = Test
 TestObjects = Test
 print(TestObj is TestObject is TestObjects)
+
+
+
+

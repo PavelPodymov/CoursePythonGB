@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="711c1105-077f-49b6-998f-2174a57d2bfd" name="Changes" comment="Initial homework 10">
-      <change afterPath="$PROJECT_DIR$/HomeWork_10/task_2_1_descr.py" afterDir="false" />
+    <list default="true" id="711c1105-077f-49b6-998f-2174a57d2bfd" name="Changes" comment="Homework 10 Done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_10/task_1_descr.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_10/task_1_descr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_10/task_2_descr.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_10/task_2_descr.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork_10/task_4_meta.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_10/task_4_meta.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +56,7 @@
       <recent name="D:\GeekBrains\Python\CoursePythonGB" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task_2_descr">
+  <component name="RunManager" selected="Python.task_4_meta">
     <configuration name="task_1_descr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CoursePythonGB" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,9 +209,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_4_meta" />
         <item itemvalue="Python.task_2_descr" />
         <item itemvalue="Python.task_3_descr (1)" />
-        <item itemvalue="Python.task_4_meta" />
         <item itemvalue="Python.task_3_descr" />
         <item itemvalue="Python.task_1_descr" />
       </list>
@@ -271,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671795960545</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Homework 10 Done">
+      <created>1671801057049</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671801057049</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,6 +308,7 @@
     <MESSAGE value="initial homework 6" />
     <MESSAGE value="initial Homework 7" />
     <MESSAGE value="Initial homework 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial homework 10" />
+    <MESSAGE value="Homework 10 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 10 Done" />
   </component>
 </project>
