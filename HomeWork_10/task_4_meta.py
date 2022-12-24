@@ -18,6 +18,3 @@ TestObj = Test()
 TestObject = Test()
 TestObjects = Test()
 print(TestObj is TestObject is TestObjects)
-
-
-
